@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Crystal)(type KiCad)(uri "C:\\KiCad\\share\\library\\4pin smd")(options "")(descr ""))
+  (lib (name EE)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name switch)(type KiCad)(uri C:\KiCad\share\library\w_switch.pretty)(options "")(descr ""))
+  (lib (name LOGO)(type KiCad)(uri "D:\\Github\\oneMicro ATmega328\\Design Files.pretty")(options "")(descr ""))
+)
