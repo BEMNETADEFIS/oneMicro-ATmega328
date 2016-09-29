@@ -1472,7 +1472,7 @@
       (net 53 "Net-(D4-Pad1)"))
   )
 
-  (gr_line (start 169.7482 90.5002) (end 169.7482 123.5837) (angle 90) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 169.7482 123.5456) (end 169.7482 90.5002) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_arc (start 153.6484 123.3262) (end 153.3984 125.3262) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 154.9238 125.3262) (end 153.4238 125.3262) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 155.4238 125.8262) (end 154.9238 125.3262) (angle 90) (layer Edge.Cuts) (width 0.1))
