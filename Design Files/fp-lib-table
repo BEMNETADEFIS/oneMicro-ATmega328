@@ -3,4 +3,5 @@
   (lib (name EE)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
   (lib (name switch)(type KiCad)(uri C:\KiCad\share\library\w_switch.pretty)(options "")(descr ""))
   (lib (name LOGO)(type KiCad)(uri "D:\\Github\\oneMicro ATmega328\\Design Files.pretty")(options "")(descr ""))
+  (lib (name Explore)(type KiCad)(uri H:\Github\Exploreembedded_Kicad_Library-\ExploreEmbedded.pretty-master)(options "")(descr ""))
 )
